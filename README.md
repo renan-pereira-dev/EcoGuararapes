@@ -4,10 +4,10 @@
 ---
 
 ## 📌 Sobre o Projeto
-O **EcoGuararapes** é um projeto de extensão focado no diagnóstico, mapeamento e documentação de falhas na infraestrutura urbana e pontos de descarte irregular de resíduos sólidos. O objetivo principal é analisar como a ação humana combinada com a falta de manutenção preventiva do poder público atua como o principal gatilho para as enchentes crónicas que afetam a Região Metropolitana.
+O **EcoGuararapes** é um projeto de extensão focado no diagnóstico, mapeamento e documentação de falhas na infraestrutura urbana e pontos de descarte irregular de resíduos sólidos. O objetivo principal é analisar como a ação humana combinada com a desafios relacionados à manutenção da infraestrutura urbana contribui para o agravamento das enchentes crônicas que afetam a Região Metropolitana.
 
 ### 📊 O Contexto Local
-Em períodos de fortes chuvas, dados estatísticos apontam que **mais de 60% de localidades vulneráveis em Jaboatão, como o bairro da Muribeca, chegam a ficar completamente submersas**. Este projeto utiliza o poder da documentação e da tecnologia para dar visibilidade a esses pontos críticos.
+Segundo reportagem do G1 Pernambuco (2026), durante um episódio de fortes chuvas, mais de 60% do bairro da Muribeca ficou debaixo d'água. O projeto EcoGuararapes utiliza documentação fotográfica e recursos digitais para dar visibilidade a problemas urbanos relacionados ao descarte irregular de resíduos e à drenagem urbana.
 
 ---
 
@@ -36,12 +36,28 @@ Em períodos de fortes chuvas, dados estatísticos apontam que **mais de 60% de 
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+- Git e GitHub
+- Canva
+- WhatsApp
+- Registro fotográfico digital
+- Pesquisa documental
+- Redes sociais para conscientização comunitária
+
+## 📚 Referências
+
+- G1 Pernambuco. Chuvas deixam bairros alagados em Pernambuco e mais de 60% da Muribeca fica debaixo d'água. Maio de 2026.
+- Ministério do Meio Ambiente. Agenda 21 Brasileira.
+- Organização das Nações Unidas (ONU). Declaração de Joanesburgo sobre Desenvolvimento Sustentável.
+  
+ ---
+  
 ## 🚀 Próximos Passos & Evolução Tecnológica (Roadmap ADS)
 Como estudante de Análise e Desenvolvimento de Sistemas, este diagnóstico é a base para o desenvolvimento de uma solução tecnológica **Full-Stack**:
 
 - [ ] **Fase 1 (Atual):** Documentação técnica e mapeamento de dados no GitHub.
 - [ ] **Fase 2 (Desenvolvimento):** Criação de uma aplicação Web/Mobile onde os próprios moradores podem reportar e geolocalizar pontos de obstrução e descarte irregular em tempo real.
-- [ ] **Fase 3 (Inteligência Artificial):** Integração de um modelo de Visão Computacional para classificar automaticamente a gravidade do entupimento através da foto enviada pelo utilizador.
-
+- [ ] **Fase 3 (Análise de Dados):** Construção de painéis para acompanhamento dos pontos reportados e geração de estatísticas sobre ocorrências na comunidade.
 ---
 *Repositório mantido por [rpfs-dev](https://github.com/rpfs-dev).*
