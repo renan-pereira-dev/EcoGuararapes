@@ -56,7 +56,7 @@ Segundo reportagem do G1 Pernambuco (2026), durante um episódio de fortes chuva
 ## 🚀 Próximos Passos & Evolução Tecnológica (Roadmap ADS)
 Como estudante de Análise e Desenvolvimento de Sistemas, este diagnóstico é a base para o desenvolvimento de uma solução tecnológica **Full-Stack**:
 
-- [V] **Fase 1 (Finalizado):** Documentação técnica e mapeamento de dados no GitHub.
+- [x] **Fase 1 (Finalizado):** Documentação técnica e mapeamento de dados no GitHub.
 - [ ] **Fase 2 (Desenvolvimento):** Criação de uma aplicação Web/Mobile onde os próprios moradores podem reportar e geolocalizar pontos de obstrução e descarte irregular em tempo real.
 - [ ] **Fase 3 (Análise de Dados):** Construção de painéis para acompanhamento dos pontos reportados e geração de estatísticas sobre ocorrências na comunidade.
 ---
