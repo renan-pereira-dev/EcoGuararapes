@@ -60,4 +60,4 @@ Como estudante de Análise e Desenvolvimento de Sistemas, este diagnóstico é a
 - [ ] **Fase 2 (Desenvolvimento):** Criação de uma aplicação Web/Mobile onde os próprios moradores podem reportar e geolocalizar pontos de obstrução e descarte irregular em tempo real.
 - [ ] **Fase 3 (Análise de Dados):** Construção de painéis para acompanhamento dos pontos reportados e geração de estatísticas sobre ocorrências na comunidade.
 ---
-*Repositório mantido por [rpfs-dev](https://github.com/renan-pereira-dev).*
+*Repositório mantido por [renan-pereira-dev](https://github.com/renan-pereira-dev).*
