@@ -1,0 +1,31 @@
+# Fotos originais e backups (dados sensíveis)
+backup/
+imagens_originais/
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# FastAPI / Python
+*.log
+.coverage
+htmlcov/
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+dist/
+
+# Arquivos de editores
+.vscode/
+.idea/
+# LibreOffice lock files
+.~lock.*#
