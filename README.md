@@ -1,5 +1,7 @@
 # EcoGuararapes 🌿⛈️
 
+[![Tests](https://github.com/renan-pereira-dev/EcoGuararapes/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/renan-pereira-dev/EcoGuararapes/actions/workflows/tests.yml)
+
 > **Summary (English)**
 > EcoGuararapes is a university extension project (Systems Analysis and Development, Wyden) about urban drainage and illegal waste disposal in Jaboatão dos Guararapes, Pernambuco, Brazil. It started as a field survey in the Muribeca community and is evolving into a citizen platform where residents can view and report problems such as littering, blocked drains and flooding on a moderated map.
 > The current repository contains the field survey evidence and a Python script that removes EXIF metadata from photos and resizes them before publication. The web platform (v1), AI-assisted triage (v2), rainfall analysis (v3) and a custom image classifier (v4) are **planned**, not implemented yet.
