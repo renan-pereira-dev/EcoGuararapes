@@ -84,7 +84,8 @@ venv\Scripts\activate        # Windows
 source venv/bin/activate     # Linux/macOS
 
 # 2. Instalar as dependências
-pip install -r requirements.txt
+pip install -r requirements.txt      # apenas para rodar o script
+pip install -r requirements-dev.txt  # script + pytest, para rodar os testes
 
 # 3. Colocar as fotos originais em imagens_originais/ e registrá-las no CSV
 
@@ -149,7 +150,8 @@ EcoGuararapes/
 │   └── prepare_images.py         # limpa e redimensiona as fotos
 ├── tests/
 │   └── test_prepare_images.py    # testes do script
-├── requirements.txt
+├── requirements.txt              # dependências do script (Pillow)
+├── requirements-dev.txt          # dependências de desenvolvimento (pytest)
 └── README.md
 ```
 
